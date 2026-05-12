@@ -1,7 +1,7 @@
 site_name: 结构笔记
 site_description: 结构工程师的技术笔记、计算表格与教程
 site_author: 结构工程师
-repo_url: https://github.com/YOUR_USERNAME/YOUR_REPO  # 创建仓库后修改这里
+repo_url: https://github.com/huangyi5/structure-notes  # 创建仓库后修改这里
 
 theme:
   name: material
