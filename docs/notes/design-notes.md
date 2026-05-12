@@ -51,10 +51,15 @@
 - 纵筋最小净距：梁上部钢筋水平方向的净间距不应小于30mm和1.5d；梁下部钢筋水平方向的净间距不应小于25mm和d。当下部钢筋多于2层时，2层以上钢筋水平方向的中距应比下面2层的中距增大一倍；各层钢筋之间的净间距不应小于25mm和d，d为钢筋的最大直径。
 - 框架梁内贯通中柱的每根纵向钢筋直径不宜大于1/20L（L为矩形边长或圆形直径）。
 <img width="1008" height="473" alt="image" src="https://github.com/user-attachments/assets/adf10fdc-eead-4d54-b60e-e0aab045f790" />
-<img width="1008" height="473" alt="image" src="https://github.com/user-attachments/assets/2747f17a-f000-4298-a85b-f26d723acf02" />
-
-
+<img width="1077" height="610" alt="image" src="https://github.com/user-attachments/assets/bf689629-1df8-4f96-a785-61a29ec086a5" />
 
 ## 基础设计
+<img width="1407" height="533" alt="image" src="https://github.com/user-attachments/assets/091bc6b3-650c-4f08-a2e3-78cf6e90449a" />
+<img width="824" height="614" alt="image" src="https://github.com/user-attachments/assets/fa7317ee-f953-49eb-b188-b83e9c4ce948" />
+<img width="787" height="585" alt="image" src="https://github.com/user-attachments/assets/fc76b03a-e9d9-4191-af0f-42b401f09cd8" />
+<img width="829" height="611" alt="image" src="https://github.com/user-attachments/assets/e5f86578-3cad-405c-98fc-f3a6e41101e4" />
+<img width="1747" height="665" alt="image" src="https://github.com/user-attachments/assets/cb11c87f-0c2a-4a92-95db-34c49dd3ae1d" />
+<img width="1320" height="780" alt="image" src="https://github.com/user-attachments/assets/913228e2-3c18-474d-a822-a05d56eb8d65" />
+<img width="1598" height="744" alt="image" src="https://github.com/user-attachments/assets/c67edf12-62e3-41c1-b7f1-a91ab062ec0c" />
 
 
