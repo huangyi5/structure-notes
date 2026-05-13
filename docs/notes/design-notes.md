@@ -110,8 +110,6 @@ tags:
 - 抗水板厚 250~400mm（计算确定），底标高在地下水位以上时最小可取 150~200mm
 - 两层地库底板建议 450 厚，三层地库建议 550 厚
 
-![基础图1](https://github.com/user-attachments/assets/091bc6b3-650c-4f08-a2e3-78cf6e90449a)
-
 ### 外墙
 
 - 荷载：水土侧压力，静止土压力系数近似 0.50；有支护时 ×0.66 折减
@@ -120,16 +118,10 @@ tags:
 - 竖向筋：小直径通长（0.20% 配筋率）+ 1/3 层高附加；通长筋最小 Φ10
 - 水平筋：满足构造 0.20% 配筋率
 
-![基础图2](https://github.com/user-attachments/assets/fa7317ee-f953-49eb-b188-b83e9c4ce948)
-![基础图3](https://github.com/user-attachments/assets/fc76b03a-e9d9-4191-af0f-42b401f09cd8)
-
 ### 桩基础
 
 - 摩擦桩 → 细长桩；端承桩 → 扩底桩；桩身强度控制 → 大直径或提高混凝土等级
 - 桩身与承台混凝土强度等级相差 ≤ 两级
-
-![基础图4](https://github.com/user-attachments/assets/e5f86578-3cad-405c-98fc-f3a6e41101e4)
-![基础图5](https://github.com/user-attachments/assets/cb11c87f-0c2a-4a92-95db-34c49dd3ae1d)
 
 ### 抗渗
 
@@ -141,5 +133,12 @@ tags:
 | 10 ≤ H < 20m | P8 |
 | 20 ≤ H < 30m | P10 |
 
+### 参考图示
+
+![基础图1](https://github.com/user-attachments/assets/091bc6b3-650c-4f08-a2e3-78cf6e90449a)
+![基础图2](https://github.com/user-attachments/assets/fa7317ee-f953-49eb-b188-b83e9c4ce948)
+![基础图3](https://github.com/user-attachments/assets/fc76b03a-e9d9-4191-af0f-42b401f09cd8)
+![基础图4](https://github.com/user-attachments/assets/e5f86578-3cad-405c-98fc-f3a6e41101e4)
+![基础图5](https://github.com/user-attachments/assets/cb11c87f-0c2a-4a92-95db-34c49dd3ae1d)
 ![基础图6](https://github.com/user-attachments/assets/913228e2-3c18-474d-a822-a05d56eb8d65)
 ![基础图7](https://github.com/user-attachments/assets/c67edf12-62e3-41c1-b7f1-a91ab062ec0c)
