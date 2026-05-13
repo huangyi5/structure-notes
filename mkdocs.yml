@@ -1,55 +1,86 @@
 site_name: 结构笔记
 site_description: 结构工程师的技术笔记、计算表格与教程
 site_author: 结构工程师
-repo_url: https://github.com/huangyi5/structure-notes  # 创建仓库后修改这里
+repo_url: https://github.com/huangyi5/structure-notes
+edit_uri: blob/main/docs/
 
 theme:
   name: material
   language: zh
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: orange
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: 切换暗色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: orange
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: 切换亮色模式
   features:
-    - navigation.sections   # 侧边栏分组折叠
-    - navigation.top        # 回到顶部按钮
-    - search.suggest        # 搜索建议
-    - search.highlight      # 搜索结果高亮
-    - content.code.copy     # 代码块复制按钮
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+  - tags
 
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
-  - pymdownx.superfences    # 嵌套代码块
+  - pymdownx.superfences
   - pymdownx.arithmatex:
-      generic: true         # 数学公式（LaTeX）
+      generic: true
   - pymdownx.tasklist:
-      custom_checkbox: true # 任务列表
-  - admonition              # 提示框
-  - footnotes               # 脚注
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - footnotes
+  - meta
+  - tables
+
+extra_css:
+  - stylesheets/custom.css
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-# 导航菜单
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/huangyi5/structure-notes
+      name: GitHub 仓库
+  copyright: "&copy; 2026 结构笔记 — Powered by MkDocs Material"
+
 nav:
-  - 首页: index.md
-  - 计算表格:
-      - 常用截面特性: sheets/section-properties.md
-  - 结构笔记:
-      - 设计心得: notes/design-notes.md
-  - 教程链接: tutorials.md
-  - 关于: about.md
+  - 🏠 首页: index.md
+  - 📐 计算表格:
+      - 📏 常用截面特性: sheets/section-properties.md
+  - 📝 结构笔记:
+      - 📖 设计心得: notes/design-notes.md
+      - ⌨️ 常用命令: notes/cad-commands.md
+  - 🔗 教程链接: tutorials.md
+  - 🏷️ 标签: tags.md
+  - 💬 关于: about.md
