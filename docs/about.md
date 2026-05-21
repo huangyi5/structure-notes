@@ -4,7 +4,7 @@ tags:
 ---
 
 # 关于本站
-
+https://huangyi5.github.io/structure-notes/notes/design-notes/
 我是结构工程师，日常用 PKPM、YJK、探索者、CAD 等软件。
 
 这个网站是我个人整理的结构工程相关笔记，包含：
