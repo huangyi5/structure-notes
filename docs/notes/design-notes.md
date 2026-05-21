@@ -143,6 +143,8 @@ tags:
 
 ![梁配筋图2](https://github.com/user-attachments/assets/bf689629-1df8-4f96-a785-61a29ec086a5)
 
+![底筋顶筋面积比值≤0.3](../assets/images/底筋顶筋面积比值.png)
+
 ---
 
 ## 柱配筋
@@ -236,6 +238,8 @@ tags:
 ![基础图6](https://github.com/user-attachments/assets/913228e2-3c18-474d-a822-a05d56eb8d65)
 ![基础图7](https://github.com/user-attachments/assets/c67edf12-62e3-41c1-b7f1-a91ab062ec0c)
 
+![桩基承台要求](../assets/images/桩基承台-要求.png)
+
 ---
 
 ## 荷载取值
@@ -247,6 +251,10 @@ tags:
     | 外墙线荷载 | 2.6 ×（楼层高度 - 梁高） |
     | 恒载（常规楼面） | 1.5 kN/m² = 0.05×20（水泥容重）+ 0.5 |
     | 厕所（降板 0.6m） | 6.5 kN/m² = 0.6×10 + 0.5 |
+
+![线荷载示意](../assets/images/线荷载.png)
+
+![荷载基本组合参数取值](../assets/images/荷载基本组合-参数取值.png)
 
 ---
 
