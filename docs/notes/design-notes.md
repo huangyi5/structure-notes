@@ -28,6 +28,11 @@ tags:
 
 ---
 
+## 施工图
+**视频教程链接**：
+bilibili官方链接：https://space.bilibili.com/1095013744?spm_id_from=333.337.search-card.all.click
+
+
 ## 板配筋
 
 ### 板厚取值
