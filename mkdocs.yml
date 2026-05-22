@@ -1,4 +1,5 @@
 site_name: 结构笔记
+
 site_description: 结构工程师的技术笔记、计算表格与教程
 site_author: 结构工程师
 repo_url: https://github.com/huangyi5/structure-notes
@@ -43,6 +44,7 @@ plugins:
   - tags
 
 markdown_extensions:
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
