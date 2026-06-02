@@ -9,6 +9,8 @@ tags:
 # 设计心得
 
 结构设计中的经验总结与规范要点速查。
+### 结构常见剖面图示：
+<img width="711" height="539" alt="bf7d91e3ce214b30f6ae0cfd90f10529" src="https://github.com/user-attachments/assets/48f56201-7845-498d-a00a-27eba24aabc8" />
 
 ---
 
