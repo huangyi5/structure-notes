@@ -51,6 +51,7 @@ bilibili官方链接：https://space.bilibili.com/1095013744?spm_id_from=333.337
 - 大跨度板注意挠度和裂缝验算
 - 洞口周边须补强钢筋
 - 屋面层板筋要**双层双向拉通**
+<img width="619" height="273" alt="988399b6-9bc5-410f-8163-4c751ddd7acd" src="https://github.com/user-attachments/assets/0523a105-64f6-4219-9dc6-47731c226ab3" />
 
 ### 常见问题
 
