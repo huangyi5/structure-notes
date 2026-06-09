@@ -36,6 +36,14 @@ hide:
 
     [:octicons-arrow-right-24: 进入](notes/design-notes.md)
 
+-   :material-book-open-page-variant:{ .lg .middle } **规范笔记**
+
+    ---
+
+    广东省院技术措施 & 设计指南 — 规范阅读摘录与理解
+
+    [:octicons-arrow-right-24: 进入](notes/reading-notes.md)
+
 -   :material-keyboard-outline:{ .lg .middle } **常用命令**
 
     ---
